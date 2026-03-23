@@ -80,7 +80,6 @@ Electronics & Communication Engineering Student
 ---
 
 ## 📸 Project Images
-(Add your project photos here)
 
 
 ## ⭐ Conclusion
