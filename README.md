@@ -86,7 +86,7 @@ Electronics & Communication Engineering Student
 ![1000131761](https://github.com/user-attachments/assets/5fb09a19-33fa-47ef-a4af-e09d4e56add6)
 <img width="1024" height="1536" alt="1000152108" src="https://github.com/user-attachments/assets/c952a6b0-b542-4690-97e4-3cdbd607c9fa" />
 ## Project Report 
-ITMS Report.pdf
+https://github.com/sunny-raj197/ITMS-Integrated-Track-Monoitoring-System/blob/main/ITMS%20Report.pdf
 
 ## ⭐ Conclusion
 The ITMS project demonstrates a practical and cost-effective railway safety solution using embedded systems and IoT technology.  
