@@ -81,6 +81,10 @@ Electronics & Communication Engineering Student
 
 ## 📸 Project Images
 
+![1000131764](https://github.com/user-attachments/assets/3027aa56-a508-405f-9e36-a241c717681f)
+![1000131760](https://github.com/user-attachments/assets/ad4c76c6-25ef-45fe-aef3-e7fb02ec53ce)
+![1000131761](https://github.com/user-attachments/assets/5fb09a19-33fa-47ef-a4af-e09d4e56add6)
+<img width="1024" height="1536" alt="1000152108" src="https://github.com/user-attachments/assets/c952a6b0-b542-4690-97e4-3cdbd607c9fa" />
 
 ## ⭐ Conclusion
 The ITMS project demonstrates a practical and cost-effective railway safety solution using embedded systems and IoT technology.  
